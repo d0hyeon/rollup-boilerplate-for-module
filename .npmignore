@@ -17,3 +17,4 @@ jest.config.js
 rollup.confog.js
 babel.config.json
 tsconfig.json
+.husky/
