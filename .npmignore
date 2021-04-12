@@ -1,0 +1,19 @@
+# test dir
+coverage/
+__test__/
+
+# modules
+node_modules/
+
+# resource
+src/ 
+app/
+
+# config file
+yarn.lock
+.gitignore
+.npmignore
+jest.config.js
+rollup.confog.js
+babel.config.json
+tsconfig.json
