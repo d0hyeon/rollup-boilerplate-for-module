@@ -1,4 +1,4 @@
-# rollup-boilerplate-for-module
+# rollup-boilerplate-for-npm
 
 ## support kit
 - rollup plugins ( resolve, commonjs, gzip )
