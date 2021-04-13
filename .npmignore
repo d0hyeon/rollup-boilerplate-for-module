@@ -7,14 +7,18 @@ node_modules/
 
 # resource
 src/ 
-app/
 
 # config file
-yarn.lock
+.husky/
+.vscode/
+.eslintrc.json
 .gitignore
 .npmignore
-jest.config.js
-rollup.confog.js
+.prettierrc
+.babelrc
+README.md
 babel.config.json
+jest.config.js
+rollup.config.js
 tsconfig.json
-.husky/
+yarn.lock
